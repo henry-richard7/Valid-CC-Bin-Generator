@@ -1,0 +1,7 @@
+Bin      :  498998
+Scheme   :  VISA
+Country  :  UNITED STATES
+Type     :  CREDIT
+Category :  
+Bank     :  UNKNOWN
+________________________
